@@ -1,0 +1,21 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0; /* Add padding to top and bottom */
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex; /* Make the list items flex items */
+    justify-content: center; /* Center-align the list items */
+  }
+  
+  nav li {
+    margin: 0 1rem; /* Add margin between list items */
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+  }
